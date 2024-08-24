@@ -136,3 +136,129 @@ A = np.arange(100)
 np.random.shuffle(A)  # shuffle in place
 
 ----
+# random
+```
+X = np.random.randn(100, 28, 28)
+print (X.shape)
+```
+![alt text](image-22.png)
+
+**randint**
+create integer of size 100 in the range 0 to 10
+```
+print(np.random.randint(0, 10, size=100))
+```
+
+![alt text](image-23.png)
+
+# code to Shuffle
+![alt text](image-24.png)
+
+**NOTE**
+1. X.shape[0] returns 100 as "A" input used to call shuffle function has 100 samples
+2. arange - creates a array of 100
+3. np.random.shuffle - has default assignment operator and it shuffles the "order" variable.
+4. This order variable is applied to both "A" and "B"
+![alt text](image-25.png)
+
+# How function is called?
+```
+A = np.random.randn(100, 28, 28)
+b = np.random.randint(0, 10, size=100)
+shuffle_dataset(A, b)
+```
+
+# Zero_like
+create an array with all zero
+```
+np.zeros_like(a)
+```
+
+# This is amazing!
+# ASK
+- Create "b" from "a" s.t
+- ![alt text](image-26.png)
+
+## Logic
+- In output, All position except last position , add with next position value (as its zero vector, its an update)
+- then add the previous position value from input to the current position in output. (ignore the first value for this update)
+
+
+# Subtract Each row by mean of the row
+ # Given
+ ![alt text](image-27.png)
+
+```
+ np.exp(np.mean(np.log(A),axis=1)).reshape(-1,1)
+ ```
+
+ **Note:**
+ A is matrix
+ - use log approach to calculate  g1 and g2
+ - goal : create a avg. matrix and then subtract with original. avg. matrix always have one column
+ - "axis =1" lets the mean function to get average by each row and not total average.
+  
+  # Rank one array based on another
+
+```
+ranking=names[np.argsort(scores)]
+```
+
+**Sample:**
+![alt text](image-28.png)
+
+**Note**
+1. with argsort of "Scores", it generates a ranking for each position. (it starts with 0..)
+2. that ranking is what passed to array#2 to sort.
+
+ # Data type
+ ![alt text](image-29.png)
+ 
+ **Note:**
+1. type(data) : gives type of array
+2. data.dtype = gives elements type
+
+> using ::
+
+![alt text](image-30.png)
+
+# Reverse altenate columns
+```
+data[:, 1::2] = data[:, 1::2][::-1, :]
+```
+
+![alt text](image-31.png)
+
+# New axis
+
+```
+data_shape_expand_none = data[None]
+data_shape_expand_newaxis = data[np.newaxis]
+```
+-- Any direction
+![alt text](image-32.png)
+
+**API - atleast_xD to add new axis**
+![alt text](image-33.png)
+
+
+# Transpose
+![alt text](image-34.png)
+
+# concatenate
+![alt text](image-35.png)
+
+# Horizontal staacking
+
+![alt text](image-36.png)
+
+# tricks
+![alt text](image-37.png)
+
+# where
+![alt text](image-38.png)
+
+# Advanced
+__ASK
+![alt text](image-41.png)
+![alt text](image-40.png)
