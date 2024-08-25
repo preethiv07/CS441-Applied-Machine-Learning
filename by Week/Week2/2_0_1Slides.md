@@ -13,9 +13,4 @@ Slides
 Please use the links below to download the slides.
 
 ---
-# TextBook
-
----
-# Lecture 2.1 Introduction - Section 1.1 Classification: The Big Ideas 
-### (p4-p7)
 
