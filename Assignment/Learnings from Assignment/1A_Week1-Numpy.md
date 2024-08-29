@@ -77,6 +77,10 @@ Gives the shape of the array
 ## Numpy Autoscale to fit operations
 ![alt text](image-7.png)
 
+Note: Row vs. Column Broadcasting
+![alt text](image-42.png)
+![alt text](image-43.png)
+
 ## Power
 Use "**"
 
@@ -84,6 +88,9 @@ Use "**"
 ```
 prod(array)
 ```
+![alt text](image-44.png)
+![alt text](image-45.png)
+![alt text](image-46.png)
 
 ## Square root (Geom_mean)
 To achieve
