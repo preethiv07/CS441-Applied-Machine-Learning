@@ -7,3 +7,6 @@
 Is below 60 fail or below 80 fail?
 
 # Assignment
+
+- Is there a correc answer for coding assignment?
+- Incorrect answer - explanation in Quiz?
