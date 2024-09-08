@@ -101,7 +101,7 @@ Note:
 ---
 # Campuswire
 ![alt text](image-67.png)
-When actual sign and predicted value sign is different, shouldnt this be actual X precit +1.
+When actual sign and predicted value sign is different, shouldnt this be actual X precit +1. Shouldnt it include output "y" as it is in the product?
 why is it magnitude of gamma+1?
 
 ---

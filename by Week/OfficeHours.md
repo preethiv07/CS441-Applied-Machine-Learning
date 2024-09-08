@@ -61,3 +61,20 @@ Password:
 ```
 
 ---
+
+David Yifan Yao  OH
+# Thursday | 5:00 pm – 6:00 pm CDT
+Zoom OFfice Hour for CS441
+
+> Join Zoom Meeting
+
+https://illinois.zoom.us/j/81960445394?pwd=N4sae8I6WcaKCPqvrYHze8XVtgRrnH.1
+
+
+Meeting ID: 
+819 6044 5394
+
+Password: 
+794051
+
+
