@@ -31,3 +31,13 @@ Hour - 3 or 4 hours between submission
 When actual sign and predicted value sign is different, shouldnt this be actual X precit +1.
 why is it magnitude of gamma+1?
 ![alt text](image-2.png)
+
+#######
+# As of 9/14
+#########
+
+**Week 4: Assignment SVM**
+
+**Section 3.3**
+
+![alt text](image-3.png)
