@@ -41,3 +41,13 @@ why is it magnitude of gamma+1?
 **Section 3.3**
 
 ![alt text](image-3.png)
+
+#######
+# Instructor Hours As of 9/20
+#########
+
+# Questions?
+- Confusion matrix - only on taining and test data?
+- unsupervised - how is confusion matrix found?
+- how is confusion matrix fit to regression or classification
+- Difference between K fold and leave one out?
