@@ -51,3 +51,13 @@ why is it magnitude of gamma+1?
 - unsupervised - how is confusion matrix found?
 - how is confusion matrix fit to regression or classification
 - Difference between K fold and leave one out?
+
+
+# 10/9/2024
+
+MP week 9 High dimensional data.
+Accelerator data is not accessible and erroring
+https://archive.ics.uci.edu/ml/datasets/Dataset+for+ADL+Recognition+with+Wrist-worn+Accelerometer
+
+Below link works
+https://archive.ics.uci.edu/dataset/283/dataset+for+adl+recognition+with+wrist+worn+accelerometer
