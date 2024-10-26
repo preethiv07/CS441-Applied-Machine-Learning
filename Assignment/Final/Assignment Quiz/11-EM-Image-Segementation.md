@@ -1,4 +1,7 @@
-![alt text](image-76.png)
+# Attempt 1
+![alt text](image-83.png)
+
+![alt text](image-84.png)
 
 # K-10
 ## Random
@@ -22,3 +25,8 @@
 ![alt text](image-81.png)
 ## Kmeans
 ![alt text](image-82.png)
+
+# Attempt 2
+![alt text](image-85.png)
+
+![alt text](image-86.png)
