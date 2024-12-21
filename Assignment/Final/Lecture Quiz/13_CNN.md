@@ -108,3 +108,17 @@ pooling
 
 **Ref**
 ![alt text](image-54.png)
+
+
+---
+# FINALLY!!!!
+
+![alt text](image-63.png)
+
+---
+
+![alt text](image-64.png)
+
+---
+
+![alt text](image-65.png)
